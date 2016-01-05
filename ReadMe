@@ -1,0 +1,8 @@
+Refer the following SO link in order to import Maven Project directly:
+
+http://stackoverflow.com/questions/4869815/importing-a-maven-project-into-eclipse-from-git
+
+The simple example demonstrates on how to configure Spring Security to provide login/logout functionality.
+There were many examples available over the intenet demonstrating the same concept. I tried three different tutorials
+but all of them had some small errors. Thus decided to upload this simple example for future reference.
+
