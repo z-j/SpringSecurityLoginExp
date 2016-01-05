@@ -1,4 +1,5 @@
-Refer the following SO link in order to import Maven Project directly:
+Refer the following SO link in order to import Maven Project directly into Eclipse, otherwise simple clone the 
+project using the command line and then import project as Maven project. (Eclipse will then create the necessary files)
 
 http://stackoverflow.com/questions/4869815/importing-a-maven-project-into-eclipse-from-git
 
